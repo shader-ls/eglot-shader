@@ -2,7 +2,7 @@
          "0.1.0"
          "Eglot Clients for Shader")
 
-(website-url "https://github.com/shader-ls/lsp-shader")
+(website-url "https://github.com/shader-ls/eglot-shader")
 (keywords "convenience" "shader")
 
 (package-file "eglot-shader.el")
