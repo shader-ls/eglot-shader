@@ -1,6 +1,6 @@
 ;;; eglot-shader.el --- Eglot Clients for Shader  -*- lexical-binding: t; -*-
 
-;; Copyright (C) 2023-2024  Shen, Jen-Chieh
+;; Copyright (C) 2023-2025  Shen, Jen-Chieh
 
 ;; Author: Shen, Jen-Chieh <jcs090218@gmail.com>
 ;; Maintainer: Shen, Jen-Chieh <jcs090218@gmail.com>
